@@ -101,6 +101,8 @@ else:
 ## Sample Input and Output
 ![image](https://github.com/Prithivirajan2911/Search-Algorithm/assets/147020085/82fe75a1-4693-4c27-993e-90bfcc7454b9)
 
+## OUTPUT
+![image](https://github.com/Prithivirajan2911/Search-Algorithm/assets/147020085/56843089-9b67-4aff-9a68-b5571657727f)
 
 
 
