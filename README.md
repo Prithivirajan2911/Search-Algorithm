@@ -103,6 +103,8 @@ else:
 
 ## OUTPUT
 ![image](https://github.com/Prithivirajan2911/Search-Algorithm/assets/147020085/56843089-9b67-4aff-9a68-b5571657727f)
+![image](https://github.com/Prithivirajan2911/Search-Algorithm/assets/147020085/f5199b98-d1ec-4830-bbec-7839866df8de)
+
 
 
 
